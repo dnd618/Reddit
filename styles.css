@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Josefin Slab'; /*a name to be used later*/
+    src: url('https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html'); /*URL to font*/
+}
+
+h1 {
+    font-family: '@font-face';
+}
