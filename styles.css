@@ -1,8 +1,33 @@
-@font-face {
-    font-family: 'Josefin Slab'; /*a name to be used later*/
-    src: url('https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html'); /*URL to font*/
+h1 {
+    color: salmon;
+    font-weight: lighter;
+    font-family: Georgia;
 }
 
-h1 {
-    font-family: '@font-face';
+/*div {
+    background-color: mistyrose;
+    height: 25em;
+    width: 22em;
+}*/
+/*
+#images { 
+  display: block;
+  max-width: 700px;
+  max-height: 300px;
+}*/
+
+body {
+    background-color: mistyrose;
+    background-repeat: no-repeat;
+}
+img {
+    display: block;
+    padding: 3px;
+}
+button {
+    width: 10em;
+    height: inherit;
+}
+a {
+    color: salmon;
 }
