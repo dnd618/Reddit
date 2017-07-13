@@ -1,6 +1,6 @@
 /*intro page styles*/
 h1 {
-    color: salmon;
+    color: lightpink;
     font-weight: lighter;
     font-family: Georgia;
     text-align: center;
@@ -30,7 +30,7 @@ img {
 }
 
 a {
-    color: hotpink;
+    color: #D24858;
     font-size: 2em;
     font-family: Georgia;
 }
@@ -40,6 +40,10 @@ intro {
     /*padding: 3px;*/
     position: relative;
     width:  550px;
-    height: 550px;
-    
+    height: 550px;    
+}
+button, a {
+    color: lightpink;
+        font-family: Georgia;
+    text-decoration: none;
 }
