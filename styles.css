@@ -4,6 +4,7 @@ h1 {
     font-weight: lighter;
     font-family: Georgia;
     text-align: center;
+    font-size: 4.5em;
 }
 button {
     width: 10em;
@@ -29,7 +30,9 @@ img {
 }
 
 a {
-    color: salmon;
+    color: hotpink;
+    font-size: 2em;
+    font-family: Georgia;
 }
 intro {
     background-color: mistyrose;
